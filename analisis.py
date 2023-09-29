@@ -22,7 +22,7 @@ Original file is located at
 from google.colab import drive
 drive.mount('/content/drive')
 
-pip install pyspark
+
 pip install pygal
 pip install cairosvg
 
